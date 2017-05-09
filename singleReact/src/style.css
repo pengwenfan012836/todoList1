@@ -1,0 +1,12 @@
+.domain{width:800px;min-height:400px;border: 1px solid #999;margin:20px auto;padding:20px;}
+.com-input{width: 600px;height: 300px;margin:20px;padding:10px;border: 1px solid #999;}
+.user{width: 500px;height: 30px;}
+.textarea{margin:20px auto;resize: none}
+.button{width:70px;height: 40px;background-color: #abcdef;color:#fff;border:0;float: right;font-size: 20px;font-family: '微软雅黑'}
+.commets{width: 600px;min-height: 500px;margin:20px;padding:10px;border: 1px solid #999;line-height: 30px;}
+.userName{font-style: 30px;font-family: '微软雅黑';color: #abcedf;margin-right: 15px;}
+.content{font-size: 16px;}
+.pushTime{float: right;margin-right: 20px;font-size:14px;}
+.deletCommet{float: right;margin-right: 20px;font-size: 14px;color:#999;}
+.deletCommet:hover{color:red;cursor: pointer;}
+.comDel{height:40px;border-bottom: 1px solid #999;margin:10px auto;}
